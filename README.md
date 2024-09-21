@@ -1,6 +1,6 @@
 # Elevator simulator
 Here resides a C++ program that resembles the functions and logic of an elevator demonstrated by command line graphics.
-We (my two colleagues and I) built this as a project for the second semester of our first year.
+We (my two colleagues and [I](https://www.linkedin.com/in/ammar-abdelaal-07a022286/)) built this as a project for the second semester of our first year.
 
 ## Features:
 - Simulates the action and **logic** of a real life elevator.
