@@ -6,9 +6,9 @@ We (my two colleagues and I) built this as a project for the second semester of 
 - Simulates the action and **logic** of a real life elevator.
 - No matter how many people call it and wherever each of them wants to go, it can **manage all their calls** and handle all their requests as **efficiently** as possible.
 - You can see the elevator's motion through floors and follow up its progress.
-- You can see when a person enters and exits, and how many people exitted on each floor.
-- You get a status update on every floor.
-- Prone to crashes and erroneous inputs.
+- You can see when a person **enters** and **exits**, and how many people exitted on each floor.
+- You get a **status update** on every floor.
+- **Prone** to crashes and erroneous inputs.
      
 ## How-to-use:
 1. Just clone the repository and run program. No special software needed.
@@ -39,4 +39,4 @@ This is the file you run for the elevator simulation to start. all previous file
 
 
 ## Credits:
-This project wasn't built by me solely. I sincerely want to thank  ***Mohammed Elsayed Hassan*** for contributing in the elevator's *logic and motion*, and ***Mohammed Shalaby*** for implementing the animation functions *all on his own*! We all contributed to building and growing this project, clarifying each other's vision about how the program should emerge, reaching a final mutual view and debugging several annoying errors along the way. I am truly **proud** of them and their work, and wish them the best.
+This project wasn't built by me solely. I sincerely want to thank  [***Mohammed Elsayed Hassan***](https://www.linkedin.com/in/mohammed-elsayed-hassan-68740b304/) for contributing in the elevator's *logic and motion*, and ***Mohammed Shalaby*** for implementing the animation functions *all on his own*! We all contributed to building and growing this project, clarifying each other's vision about how the program should emerge, reaching a final mutual view and debugging several annoying errors along the way. I am truly **proud** of them and their work, and wish them the best.
